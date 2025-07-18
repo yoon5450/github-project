@@ -1,5 +1,5 @@
 
-blank_issues_enables: flase
+blank_issues_enables: false
 contact_links:
   - name: 질문은 Discussions에서!
     url : 'https://github.com/yoon5450/github-project/discussions'
